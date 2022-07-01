@@ -1,5 +1,5 @@
 name: 'Readme badges refresher'
-description: 'Purg the camo github cache for badges present in the readme of a repository'
+description: 'Purges the camo github cache for badges present in the readme of a repository.'
 inputs:  
   repository:
     description: 'The repository to purge the cache for in the form of <user>/<repo>'
