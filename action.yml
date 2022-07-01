@@ -1,4 +1,4 @@
-name: 'Readme badges refresher'
+name: 'badges-cache-purge'
 description: 'Purges the camo github cache for badges present in the readme of a repository.'
 inputs:  
   repository:
