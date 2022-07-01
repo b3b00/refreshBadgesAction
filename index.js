@@ -1,4 +1,4 @@
-const core = require("../JsGithubActionEmulator/core");
+const core = require("jsgithubactionemulator/core");
 const { exec, execSync } = require("child_process");
 const path = require("path");
 const request = require("request");
