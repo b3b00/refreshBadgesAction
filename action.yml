@@ -1,0 +1,17 @@
+name: 'Readme badges refresher'
+description: 'Purg the camo github cache for badges present in the readme of a repository'
+inputs:  
+  repository:
+    description: 'The repository to purge the cache for in the form of <user>/<repo>'
+    required: true
+  branch:
+    description: 'The branch where the purge must take place. default is main'
+    required: false
+runs:
+  using: 'node12'
+  #pre: 'setup.js'
+  main: 'index.js'
+  #post: 'cleanup.js'
+branding:
+  icon: 'refresh-cw'  
+  color: 'purple'
