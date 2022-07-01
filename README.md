@@ -1,8 +1,6 @@
-# Coverlet action
+# Readme badges refresher action
 
-This action runs [coverlet coverage](https://github.com/coverlet-coverage/coverlet) tool on a dotnet core solution
-
-
+This actions purges the github camo cache for badges present in the readme of your repository
 
 ## Inputs
 
