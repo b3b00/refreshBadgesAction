@@ -13,7 +13,7 @@
     "@actions/core": "^1.9.0",
     "@actions/github": "^3.0.0",
     "cheerio": "^1.0.0-rc.12",
-    "jsgithubactionemulator": "^1.0.2",
+    "jsgithubactionemulator": "^1.0.5",
     "request": "^2.88.2"
   }
 }
