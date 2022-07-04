@@ -19,7 +19,7 @@ This actions purges the github camo cache for badges present in the readme of yo
  no outputs
  
 ## example
-For repository [CSLY](https://gitgub.com/b3b00/csly) on branch `dev`
+For repository [CSLY](https://github.com/b3b00/csly) on branch `dev`
 
 ```yaml
 - name: refresh badges
